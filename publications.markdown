@@ -27,3 +27,5 @@ permalink: /publications/
 - Michael Pernpeintner (2020). **Achieving Emergent Governance in Competitive Multi-Agent Systems** (Doctoral Consortium). In: _Proceedings of the 19th International Conference on Autonomous Agents and Multi-agent Systems_ (AAMAS 2020).
 
 - Michael Pernpeintner (2019). **Collaboration as an Emergent Property of Self-Organizing Software Systems**. In: _2019 IEEE 4th International Workshops on Foundations and Applications of Self* Systems_ (FAS*W 2019).
+
+- Jesus Antonio De Loera, Susan Margulies, Michael Pernpeintner, Eric Riedl, David Rolnick, Gwen Spencer, Despina Stasi, Jon Swenson (2015). **Graph coloring ideals: Nullstellensatz Certificates, Gröbner Bases for Chordal Graphs, and Hardness of Gröbner Bases**. In: _Proceedings of the 2015 ACM International Symposium on Symbolic and Algebraic Computation_ (ISSAC 2015).
