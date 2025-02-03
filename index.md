@@ -4,3 +4,6 @@
 
 layout: home
 ---
+Welcome to my personal website!
+
+There's not a lot to show right now, but feel free to get in touch.

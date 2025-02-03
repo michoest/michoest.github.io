@@ -1,0 +1,35 @@
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  
+    <div class="wrapper">
+      <div class="footer-col-wrapper">
+        <div class="footer-col">
+        <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+        </div>
+        
+        <div class="footer-col">
+            <a rel="me" href="https://github.com/michoest" target="_blank" title="michoest">
+                <svg class="svg-icon grey">
+                  <use xlink:href="{{ '/assets/minima-social-icons.svg#' | append: 'github' | relative_url }}"></use>
+                </svg>
+                <span class="username">michoest</span>
+              </a>
+        </div>
+        <div class="footer-col">
+            <a rel="me" href="https://linkedin.com/in/michoest" target="_blank" title="michoest">
+                <svg class="svg-icon grey">
+                  <use xlink:href="{{ '/assets/minima-social-icons.svg#' | append: 'linkedin' | relative_url }}"></use>
+                </svg>
+                <span class="username">michoest</span>
+              </a>
+        </div>
+    
+        <div class="footer-col">
+            <p>{{ site.description | escape }}</p>
+          </div>
+    </div>
+
+      
+    </div>
+  
+  </footer>
